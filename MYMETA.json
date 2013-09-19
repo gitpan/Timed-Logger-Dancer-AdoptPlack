@@ -52,7 +52,11 @@
       },
       "license" : [
          "http://dev.perl.org/licenses/"
-      ]
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/mar-kolya/Timed-Logger-Dancer-AdoptPlack.git"
+      }
    },
-   "version" : "0.0.2"
+   "version" : "0.0.4"
 }
